@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!
+
+Here's my <a rel="me" href="https://sciencemastodon.com/@jeffkantor">Mastodon</a> feed. 
 
 <!--
 **jckantor/jckantor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
